@@ -1,0 +1,21 @@
+1. In the example above, let's say there's a Manager named Steve. The class would be Manager,
+and when the object Steve is created, that class is being instantiated.
+
+2. There could be a main module that each individual module draws from, but each individual module
+has specifications that are necessary for their scenarios.
+For example, there can be a main Manager salary class that all everybody draws from, but if two branches of the company are in different states
+with different costs of living and average regional salaries, their individual modules can adjust for that
+
+Another example would be an overseas branch of the country with salary modules that draw from the main module but adjust for currency.
+
+3. It allows you to write less code if you use a library instead of writing entire functions.
+
+6. To access private variables.
+
+9. 102, 2, 1300
+
+13. There needs to be a function in SalesPerson that counts the amount of sales that
+Salesperson has done (through salesHistory) and then runs the calculation.
+
+14. Polymorphism would allow this program to be used with different GUI's as explained
+in problem 2.
